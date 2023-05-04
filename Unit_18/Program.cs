@@ -18,13 +18,14 @@ namespace Unit_18
             // создадим получателя
             //var video = new Video(Console.ReadLine()); 
             //string videoPath = Console.ReadLine();
+            string videoPath = Console.ReadLine();
             //string videoPath = "https://www.youtube.com/watch?v=igNcDEEl5to";
             //string videoPath = "https://www.youtube.com/watch?v=UUQYSoC7baI";
             //string videoPath = "https://www.youtube.com/watch?v=in8w8nMbzmI";
             //string videoPath = "https://www.youtube.com/watch?v=7QA7KMfl2RM";
             //string videoPath = "https://www.youtube.com/watch?v=J-h-HXuY3zs";
             //string videoPath = "https://www.youtube.com/watch?v=fctKsVKAMNk";
-            string videoPath = "https://www.youtube.com/watch?v=iYoADuvz62E";
+            //string videoPath = "https://www.youtube.com/watch?v=iYoADuvz62E";
             //string videoPath = "https://www.youtube.com/watch?v=1La4QzGeaaQ";
 
             Console.WriteLine("Link = "+ videoPath);
