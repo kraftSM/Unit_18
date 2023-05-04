@@ -1,2 +1,2 @@
 # Unit_18
-Project для тестирования Раеterna COMMAND
+Project для тестирования Patterna COMMAND
